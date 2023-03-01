@@ -4,7 +4,7 @@
 ### Description
 
 
-Professional README Generator design
+Professional README Generator design.
 
 ### Table of Contents
 
@@ -35,8 +35,13 @@ npm install
 
 Runtime environment should be at least nodejs version 16.4
 
+### Video Walkthrough
+
+![alt text](utils/20230301_152635.mp4)
 
 ## License
+
+This project is under the MIT license.
 
 ## Contributing
 
@@ -52,5 +57,5 @@ npm test
 
 ### Questions
 
-For further inquiries contact me at bentork2010@gmail.com.
+For further inquiries contact me at bentork2020@gmail.com.
 Find my past and current works here at [Btork2022](https://github.com/Btork2022).
